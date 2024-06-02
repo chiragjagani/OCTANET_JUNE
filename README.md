@@ -16,7 +16,7 @@ focusing on the following aspects:
   It is important to pay attention to the alignment, the padding, the color palette, and boxes. Make sure CSS doesn’t overlap elements.
   Upon completion of your landing page project, you must provide a link to your hosted landing page on GitHub..
 
-**Link:** [Task 1](path/to/task1/documentation)
+**Link:** [Task 1](https://665c7d5c1ce6675fa12f8a7a--frabjous-daifuku-5f392d.netlify.app/)
 
 ### Task 2: Task Title
 
