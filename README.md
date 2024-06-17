@@ -18,11 +18,11 @@ focusing on the following aspects:
 
 **Link:** [Task 1](https://665c7d5c1ce6675fa12f8a7a--frabjous-daifuku-5f392d.netlify.app/)
 
-### Task 2: Task Title
+### Task 2: To Do List
 
-**Description:** Brief description of Task 2.
+**Description:** The goal of this task is to create a functional and user-friendly To-Do List web page. The page should allow users to add, delete, and mark tasks as complete. It should also have the ability to prioritize tasks, organize them into categories, and set due dates..
 
-**Link:** [Task 2 Documentation](path/to/task2/documentation)
+**Link:** [Task 2](path/to/task2/documentation)
 
 ### Task 3: Task Title
 
